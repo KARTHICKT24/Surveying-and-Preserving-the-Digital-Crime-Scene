@@ -46,7 +46,7 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
-![](./images/a6.png)
+![image](https://github.com/user-attachments/assets/cf20ff7e-5e0c-48c5-83b8-2f411b162dee)
 
 ![image](https://github.com/user-attachments/assets/71fa018f-6bc4-4d8c-823d-d3b05b225806)
 
